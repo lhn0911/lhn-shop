@@ -1,0 +1,449 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "hoangnam",
+      "email": "hoangnam@gmail.com",
+      "fullname": "",
+      "status": true,
+      "password": "$2a$10$1KOdhhz01UB3rKmOCwK4C.A4khaQiWYk25q5LBJxJG0Pr30vMhir6",
+      "role": true,
+      "avatar": "https://png.pngtree.com/png-vector/20240731/ourlarge/pngtree-3d-cute-chibi-superman-wearing-red-coustume-on-transparent-background-png-image_13310024.png",
+      "phone": "",
+      "address": "",
+      "created_at": "2024-10-27T13:08:36Z",
+      "updated_at": "2024-10-27T13:08:36Z",
+      "favorites": [
+        {
+          "productId": 1,
+          "products_name": "Sữa cô gái Hà Lan",
+          "img": "https://www.dutchlady.com.vn/sites/default/files/2022-06/0405_DL_Mockup-label_FRESH_Plain-180ml_2104036_0.png",
+          "description": "Sữa tươi tiệt trùng có đường"
+        },
+        {
+          "productId": 2,
+          "products_name": "Sữa tươi Fami Canxi",
+          "img": "https://suachobeyeu.vn/upload/images/sua-fami-canxi-it-duong-hop-200ml-2.jpg",
+          "description": "Sữa tươi bổ sung canxi"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "hieupham",
+      "email": "hp@gmail.com",
+      "fullname": "",
+      "status": true,
+      "password": "$2a$10$ZllqMsbXzJxGtySjLFpuMuv9.d6MqxBcocp1yKo0V37xaXMUsD2Li",
+      "role": false,
+      "avatar": "https://3.bp.blogspot.com/-P8QuRwQkXCY/V5uPN8K8PtI/AAAAAAAAF9Q/ikGM6SfLWRc3uRI9P4FazJVh_MQ3SXDbQCLcB/s1600/ngay-tan-the-co-thuc.jpg",
+      "phone": "",
+      "address": "",
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-10-16T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "username": "dinhduong",
+      "email": "dd@gmail.com",
+      "fullname": "",
+      "status": true,
+      "password": "$2a$10$nssvPDIa3UyiXgAW3iG/IuoI0bUY/VPuqOs/o6C8RBI4WOdJqFyR.",
+      "role": false,
+      "avatar": "https://alophoto.net/wp-content/uploads/2023/05/90570addee2645866a597530721f37fd.jpg",
+      "phone": "",
+      "address": "",
+      "created_at": "2024-10-18T03:33:59Z",
+      "updated_at": "2024-10-18T03:33:59Z"
+    },
+    {
+      "id": 4,
+      "username": "xuannhat",
+      "email": "xn@gmail.com",
+      "fullname": "",
+      "status": true,
+      "password": "$2a$10$RVy1so0YURY9dnIUn/QKJek0n83SvjBQo4pRxk6KyVHgwHQHYGvVq",
+      "role": false,
+      "avatar": "https://i.pinimg.com/564x/a8/19/96/a81996c6ccf887bcb2be207eef454f07.jpg",
+      "phone": "",
+      "address": "",
+      "created_at": "2024-10-18T03:33:59Z",
+      "updated_at": "2024-10-18T03:33:59Z"
+    },
+    {
+      "id": 5,
+      "username": "hoangnamm",
+      "email": "hoangnam@gmail.comm",
+      "fullname": "",
+      "status": true,
+      "password": "123123",
+      "role": false,
+      "avatar": "https://via.placeholder.com/150",
+      "phone": "",
+      "address": "",
+      "created_at": "2024-10-21T07:53:58.746Z",
+      "updated_at": "2024-10-21T07:53:58.746Z"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Sữa Tươi",
+      "description": "Danh mục sữa tươi",
+      "status": true,
+      "created_at": "2024-10-16T00:00:00Z"
+    },
+    {
+      "name": "Sữa đặc",
+      "description": "Danh mục sữa đặc",
+      "created_at": "2024-10-26T06:21:22.565Z",
+      "id": 2
+    },
+    {
+      "name": "Sữa bột",
+      "description": "Danh mục sữa bột",
+      "created_at": "2024-10-26T06:21:22.565Z",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Sữa tươi cô gái Hà Lan",
+      "description": "Sữa tươi tiệt trùng có đường",
+      "price": 10000,
+      "stock": 0,
+      "img": "https://www.dutchlady.com.vn/sites/default/files/2022-06/0405_DL_Mockup-label_FRESH_Plain-180ml_2104036_0.png",
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-10-26T07:03:17.277Z",
+      "categoryId": 1,
+      "id": 1,
+      "score_like": 102
+    },
+    {
+      "name": "Sữa tươi Fami Canxi",
+      "description": "Sữa tươi bổ sung canxi",
+      "price": 10000,
+      "stock": 0,
+      "img": "https://suachobeyeu.vn/upload/images/sua-fami-canxi-it-duong-hop-200ml-2.jpg",
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-10-26T07:03:17.277Z",
+      "categoryId": 1,
+      "id": 2,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa tươi TH true milk",
+      "description": "Sữa tươi tiệt trùng có đường",
+      "price": 10000,
+      "stock": 0,
+      "img": "https://suachobeyeu.vn/upload/images/sua-tuoi-th-true-milk-co-duong-hop-180ml-4-2.jpg",
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-10-26T07:03:17.277Z",
+      "categoryId": 1,
+      "id": 3,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa milo ít đường",
+      "description": "Sữa tươi milo ít đường",
+      "price": 10000,
+      "stock": 0,
+      "img": "https://vietmartjp.com/wp-content/uploads/2023/07/sua-milo-180ml-vietmart.jpg",
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-10-26T07:03:17.277Z",
+      "categoryId": 1,
+      "id": 4,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa tươi mộc châu",
+      "description": "Sữa tươi tiệt trùng mộc châu vị dâu có đường",
+      "price": 10000,
+      "stock": 0,
+      "img": "https://www.mcmilk.com.vn/wp-content/uploads/2021/10/Yomocha-dau-170ml.png",
+      "created_at": "2024-10-16T00:00:00Z",
+      "updated_at": "2024-10-26T07:03:17.277Z",
+      "categoryId": 1,
+      "id": 5,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa ngôi sao phương nam",
+      "description": "Sữa đặc ngôi sao phương nam",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 2,
+      "img": "https://dungcubarcafe.com/wp-content/uploads/2021/01/sua-dac-ngoi-soa-phuong-nam-.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 6,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa Carnation",
+      "description": "Sữa đặc Carnation caramel",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 2,
+      "img": "https://shop.annam-gourmet.com/pub/media/catalog/product/cache/ee0af4cad0f3673c5271df64bd520339/F/1/F165819_1_8de4.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 7,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa cô gái Hà Lan",
+      "description": "Sữa đặc cô gái Hà Lan",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 2,
+      "img": "https://minhcaumart.vn/media/com_eshop/products/8934841902655.webp",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 8,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa đặc nuti đỏ",
+      "description": "Sữa đặc nuti đỏ kem sữa ht 380G",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 2,
+      "img": "https://the-city.co/wp-content/uploads/2021/11/SUA-DAC-NUTI-DO-KEM-SUA-HT-380G.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 9,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa ông thọ",
+      "description": "Sữa đặc ông thọ",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 2,
+      "img": "https://product.hstatic.net/200000078749/product/3002948_sua_dac_ong_tho_trang_380g_3388278aeaca4ed8922b27eac6cfead2_8387985a82a5419396a00c44d0bdfbb7.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 10,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa bột Ensure",
+      "description": "Sữa bột Ensure bổ sung dinh dưỡng",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 3,
+      "img": "https://cdn.thegioididong.com/Products/Images/2382/197349/sua-bot-ensure-gold-bo-sung-dinh-duong-tang-cuong-suc-khoe-huong-vani-lon-850g-1.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 11,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa bột Pediasure",
+      "description": "Sữa bột Pediasure bổ sung dinh dưỡng",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 3,
+      "img": "https://media.shoptretho.com.vn/upload/20230515/sua-bot-pediasure-ba-1-6kg-1-10-tuoi.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 12,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa bột Fami Gold",
+      "description": "Sữa bột Fami Gold bổ sung dinh dưỡng",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 3,
+      "img": "https://suayte.vn/wp-content/uploads/2022/11/tamigold-pedia.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 13,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa bột Premilk",
+      "description": "Sữa bột Premilk bổ sung dinh dưỡng",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 3,
+      "img": "https://pos.nvncdn.com/68616f-105132/ps/content/20230309_E2Y4uG8CSmsUH6NHzNCV95zI.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 14,
+      "score_like": 1
+    },
+    {
+      "name": "Sữa bột Grow Plus+",
+      "description": "Sữa bột Grow Plus+ bổ sung dinh dưỡng",
+      "price": 32000,
+      "stock": 100,
+      "categoryId": 3,
+      "img": "https://cdn.tgdd.vn//News/1479010//so-sanh-sua-nguyen-kem-va-sua-tach-beo-loai-nao-1-845x475.jpg",
+      "created_at": "2024-10-26T07:17:47.765Z",
+      "updated_at": "2024-10-26T07:20:46.885Z",
+      "id": 15,
+      "score_like": 1
+    }
+  ],
+  "oders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "hoangnam",
+      "products": [
+        {
+          "productId": 1,
+          "name": "Sữa tươi cô gái Hà Lan",
+          "quantity": 1,
+          "price": 10000,
+          "img": "https://www.dutchlady.com.vn/sites/default/files/2022-06/0405_DL_Mockup-label_FRESH_Plain-180ml_2104036_0.png"
+        },
+        {
+          "productId": 6,
+          "name": "Sữa ngôi sao phương nam",
+          "quantity": 1,
+          "price": 32000,
+          "img": "https://dungcubarcafe.com/wp-content/uploads/2021/01/sua-dac-ngoi-soa-phuong-nam-.jpg"
+        }
+      ],
+      "totalAmount": 42000,
+      "created_at": "2024-10-30T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "products": [
+        {
+          "productId": 8,
+          "name": "Sữa cô gái Hà Lan",
+          "quantity": 2,
+          "price": 32000,
+          "img": "https://minhcaumart.vn/media/com_eshop/products/8934841902655.webp"
+        },
+        {
+          "productId": 12,
+          "name": "Sữa bột Pediasure",
+          "quantity": 1,
+          "price": 32000,
+          "img": "https://media.shoptretho.com.vn/upload/20230515/sua-bot-pediasure-ba-1-6kg-1-10-tuoi.jpg"
+        }
+      ],
+      "totalAmount": 96000,
+      "created_at": "2024-10-29T12:30:00Z",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "products": [
+        {
+          "productId": 11,
+          "name": "Sữa bột Ensure",
+          "quantity": 1,
+          "price": 32000,
+          "img": "https://cdn.thegioididong.com/Products/Images/2382/197349/sua-bot-ensure-gold-bo-sung-dinh-duong-tang-cuong-suc-khoe-huong-vani-lon-850g-1.jpg"
+        },
+        {
+          "productId": 4,
+          "name": "Sữa milo ít đường",
+          "quantity": 1,
+          "price": 10000,
+          "img": "https://vietmartjp.com/wp-content/uploads/2023/07/sua-milo-180ml-vietmart.jpg"
+        }
+      ],
+      "totalAmount": 42000,
+      "created_at": "2024-10-28T15:45:00Z",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "products": [
+        {
+          "productId": 7,
+          "name": "Sữa Carnation",
+          "quantity": 1,
+          "price": 32000,
+          "img": "https://shop.annam-gourmet.com/pub/media/catalog/product/cache/ee0af4cad0f3673c5271df64bd520339/F/1/F165819_1_8de4.jpg"
+        },
+        {
+          "productId": 14,
+          "name": "Sữa bột Grow Plus+",
+          "quantity": 2,
+          "price": 32000,
+          "img": "https://cdn.tgdd.vn//News/1479010//so-sanh-sua-nguyen-kem-va-sua-tach-beo-loai-nao-1-845x475.jpg"
+        }
+      ],
+      "totalAmount": 96000,
+      "created_at": "2024-10-27T09:20:00Z",
+      "status": "pending"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "name": "Sữa tươi cô gái Hà Lan",
+          "quantity": 1,
+          "price": 10000,
+          "img": "https://www.dutchlady.com.vn/sites/default/files/2022-06/0405_DL_Mockup-label_FRESH_Plain-180ml_2104036_0.png",
+          "status": true
+        },
+        {
+          "name": "Sữa đặc ngôi sao phương nam",
+          "quantity": 1,
+          "price": 32000,
+          "img": "https://dungcubarcafe.com/wp-content/uploads/2021/01/sua-dac-ngoi-soa-phuong-nam-.jpg",
+          "status": false
+        },
+        {
+          "name": "Sữa bột Ensure",
+          "quantity": 1,
+          "price": 32000,
+          "img": "https://cdn.thegioididong.com/Products/Images/2382/197349/sua-bot-ensure-gold-bo-sung-dinh-duong-tang-cuong-suc-khoe-huong-vani-lon-850g-1.jpg",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 4,
+      "products": [
+        {
+          "name": "Sữa tươi cô gái Hà Lan",
+          "quantity": 20,
+          "price": 10000,
+          "img": "https://www.dutchlady.com.vn/sites/default/files/2022-06/0405_DL_Mockup-label_FRESH_Plain-180ml_2104036_0.png",
+          "status": true
+        },
+        {
+          "name": "Sữa đặc ngôi sao phương nam",
+          "quantity": 7,
+          "price": 32000,
+          "img": "https://dungcubarcafe.com/wp-content/uploads/2021/01/sua-dac-ngoi-soa-phuong-nam-.jpg",
+          "status": false
+        },
+        {
+          "name": "Sữa bột Ensure",
+          "quantity": 7,
+          "price": 32000,
+          "img": "https://cdn.thegioididong.com/Products/Images/2382/197349/sua-bot-ensure-gold-bo-sung-dinh-duong-tang-cuong-suc-khoe-huong-vani-lon-850g-1.jpg",
+          "status": true
+        },
+        {
+          "name": "Sữa cô gái Hà Lan",
+          "quantity": 7,
+          "price": 32000,
+          "img": "https://minhcaumart.vn/media/com_eshop/products/8934841902655.webp",
+          "status": true
+        }
+      ]
+    }
+  ]
+}
